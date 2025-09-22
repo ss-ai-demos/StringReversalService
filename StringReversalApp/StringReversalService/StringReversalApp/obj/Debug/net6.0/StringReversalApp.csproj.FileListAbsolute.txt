@@ -1,0 +1,5 @@
+C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\obj\Debug\net6.0\StringReversalApp.csproj.AssemblyReference.cache
+C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\obj\Debug\net6.0\StringReversalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\obj\Debug\net6.0\StringReversalApp.AssemblyInfoInputs.cache
+C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\obj\Debug\net6.0\StringReversalApp.AssemblyInfo.cs
+C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\obj\Debug\net6.0\StringReversalApp.csproj.CoreCompileInputs.cache

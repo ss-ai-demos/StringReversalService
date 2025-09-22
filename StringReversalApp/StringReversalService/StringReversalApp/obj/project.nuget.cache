@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "R8Qw0r4D9VI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\subod\\Source\\Repos\\StringReversalService\\StringReversalApp\\StringReversalService\\StringReversalApp\\StringReversalApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\subod\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\subod\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\subod\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.7\\microsoft.netcore.app.ref.9.0.7.nupkg.sha512",
+    "C:\\Users\\subod\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.7\\microsoft.windowsdesktop.app.ref.9.0.7.nupkg.sha512",
+    "C:\\Users\\subod\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.7\\microsoft.aspnetcore.app.ref.9.0.7.nupkg.sha512",
+    "C:\\Users\\subod\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.7\\microsoft.netcore.app.host.win-x64.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
