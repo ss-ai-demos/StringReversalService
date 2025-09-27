@@ -77,3 +77,11 @@ project.fragment.lock.json
 
 # Generated files
 *.generated.cs
+
+# Cache files and folders
+*.cache
+.cache/
+**/.cache/
+StringReversalApp/StringReversalService/StringReversalApp/obj/Debug/net9.0/StringReversalApp.AssemblyInfo.cs
+StringReversalApp/StringReversalService/StringReversalApp/obj/Debug/net9.0/StringReversalApp.AssemblyInfoInputs.cache
+StringReversalApp/StringReversalService/StringReversalApp.Tests/obj/project.nuget.cache

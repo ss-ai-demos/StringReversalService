@@ -3,3 +3,17 @@ C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringRevers
 C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\obj\Debug\net9.0\StringReversalApp.AssemblyInfoInputs.cache
 C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\obj\Debug\net9.0\StringReversalApp.AssemblyInfo.cs
 C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\obj\Debug\net9.0\StringReversalApp.csproj.CoreCompileInputs.cache
+C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\bin\Debug\net9.0\StringReversalApp.exe
+C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\bin\Debug\net9.0\StringReversalApp.deps.json
+C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\bin\Debug\net9.0\StringReversalApp.runtimeconfig.json
+C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\bin\Debug\net9.0\StringReversalApp.dll
+C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\bin\Debug\net9.0\StringReversalApp.pdb
+C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\obj\Debug\net9.0\StringReversalApp.sourcelink.json
+C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\obj\Debug\net9.0\StringRe.74A9068D.Up2Date
+C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\obj\Debug\net9.0\StringReversalApp.dll
+C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\obj\Debug\net9.0\refint\StringReversalApp.dll
+C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\obj\Debug\net9.0\StringReversalApp.pdb
+C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\obj\Debug\net9.0\StringReversalApp.genruntimeconfig.cache
+C:\Users\subod\Source\Repos\StringReversalService\StringReversalApp\StringReversalService\StringReversalApp\obj\Debug\net9.0\ref\StringReversalApp.dll
