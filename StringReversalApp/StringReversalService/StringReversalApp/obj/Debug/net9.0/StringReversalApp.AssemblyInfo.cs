@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StringReversalApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e23439fcb92fea46bdfd9049d267f62b5e0345bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c2c481131cc5bbe4178635af094b3e29b55a57f")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringReversalApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringReversalApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
