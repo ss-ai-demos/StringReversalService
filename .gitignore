@@ -1,0 +1,79 @@
+# .NET / Visual Studio
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
+*.log
+artifacts/
+
+# Config transforms / user-specific
+*.user
+*.userprefs
+*.rsuser
+*.vcxproj.user
+
+# Debug/Release folders
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Test results
+[Tt]est[Rr]esults/
+*.trx
+*.coverage
+*.coveragexml
+coverage/
+TestResults/
+
+# NuGet
+*.nupkg
+*.snupkg
+# packages/ # (uncomment if you restore packages locally)
+#packages/
+
+# Rider / ReSharper
+.idea/
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# VS Code (keep common shared files)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Azure Functions local settings (safe to ignore even if unused)
+local.settings.json
+
+# Lock files (older SDKs)
+project.lock.json
+project.fragment.lock.json
+
+# Others
+*.pid
+*.seed
+*.swp
+*.swo
+*.orig
+
+# Generated files
+*.generated.cs
